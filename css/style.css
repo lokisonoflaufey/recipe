@@ -1,5 +1,5 @@
 body {
-	background: #DAF7F6;
+	background: #9fd7f5;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 12px;
 	line-height: 16px;
@@ -46,18 +46,18 @@ main {
 	float: left;
 	padding: 20px;
 	width: 500px;
-	height: 550px;
+	height: 750px;
 	background: #FFFFFF;
 	box-sizing: border-box;
 }
 
-#cookies .image {
-	background-image: url("../img/gluten-free-sugar-cookies.jpg");
+#pasta .image {
+	background-image: url("https://hips.hearstapps.com/del.h-cdn.co/assets/cm/15/10/54f65d956c039_-_edf_steakpizzaiola1103_sq-xlarge.jpg?crop=1xw:1.0xh;center,top&resize=768:*");
 	background-size: cover;
 }
 
-#pesto .image {
-	background-image: url("../img/nut-free-pesto.jpg");
+#milkshake .image {
+	background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/190523-vanilla-milkshake-050-square-1559169406.png?crop=1xw:1xh;center,top&resize=768:*");
 	background-size: cover;
 }
 
